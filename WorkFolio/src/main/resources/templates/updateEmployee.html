@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.com">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+	crossorigin="anonymous">
+</head>
+<title>Update Employee</title>
+<body>
+
+	<!-- NAVBAR -->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+		<a class="navbar-brand ml-3" href="home">WorkFolio</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse"
+			data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false"
+			aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+	</nav>
+	<!-- END NAVBAR -->
+
+	<!-- Heading -->
+	<h3 class="text-center mt-4">Update Employee Details</h3>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 offset-md-3">
+				<div class="card">
+					<div class="card-body">
+						<!-- Form Title -->
+						<h4 class="text-center text-primary">Employee Details</h4>
+
+						<!-- Add New Employee Form -->
+						<form th:action="@{/update}" method="put" th:object="${emp}">
+							<!-- Hidden input for the employee ID (value will be populated dynamically) -->
+							<input type="hidden" name="id" value="" class="form-control"
+								th:field="${emp.id}">
+
+							<div class="form-group">
+								<label>Enter Full Name</label> <input type="text"
+									class="form-control" name="name" th:field="${emp.name}">
+							</div>
+
+							<div class="form-group">
+								<label>Enter Address</label> <input type="text"
+									class="form-control" name="address" th:field="${emp.address}">
+							</div>
+
+							<div class="form-group">
+								<label>Enter Email</label> <input type="email"
+									class="form-control" name="email" th:field="${emp.email}">
+							</div>
+
+							<div class="form-group">
+								<label>Enter Phone No</label> <input type="number"
+									class="form-control" name="phone" th:field="${emp.phone}">
+							</div>
+
+							<div class="form-group">
+								<label>Enter Salary</label> <input type="number"
+									class="form-control" name="salary" th:field="${emp.salary}">
+							</div>
+
+							<!-- Submit Button -->
+							<button type="submit" class="btn btn-primary btn-block">Submit</button>
+						</form>
+						<!-- End Add New Employee Form -->
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
