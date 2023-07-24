@@ -40,6 +40,17 @@ Before running the WorkFolio application, make sure you have the following prere
 - 🗄️ **MySQL Database:** Have a MySQL database set up and running to store employee data.
 - 🌐 **Web Browser:** Use any modern web browser to access the application.
 
+## Documentation
+
+For detailed information on the classes, methods, and usage of the WorkFolio application, you can refer to the JavaDoc documentation.
+
+[WorkFolio JavaDoc](https://starlit-chaja-f90861.netlify.app/)
+
+The JavaDoc provides comprehensive documentation for the codebase, making it easier for developers to understand the functionality and use the APIs effectively.
+
+Feel free to explore the JavaDoc website to gain insights into the application's architecture and explore the various features and functionalities it offers. If you have any questions or need further clarifications, the JavaDoc can be a valuable resource for you.
+
+
 ## Installation
 
 1. **Clone the Repository:** Begin by cloning the WorkFolio repository to your local machine using Git:
