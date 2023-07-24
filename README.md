@@ -83,25 +83,24 @@ Before running the WorkFolio application, make sure you have the following prere
 WorkFolio leverages a range of technologies to provide a seamless user experience and efficient management of employee data:
 
 
-| Technology             | Description                                                                                         |
-|------------------------|-----------------------------------------------------------------------------------------------------|
-| <img src="README_IMAGES/java.png" alt="Java Icon" width="50px">             | Java: The primary programming language for building the application's backend logic.              |
-| <img src="README_IMAGES/springb.png" alt="Spring Boot Icon" width="50px">       | Spring Boot: The powerful framework used to develop the web application with minimal configuration.|
-| <img src="README_IMAGES/thymeleaf.png" alt="Thymeleaf Icon" width="50px">      | Thymeleaf: A modern server-side Java template engine for rendering dynamic HTML templates.        |
-| <img src="README_IMAGES/bootstrap.png" alt="Bootstrap Icon" width="50px">      | Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.|
-| <img src="README_IMAGES/mysql.png" alt="MySQL Icon" width="50px">             | MySQL: The chosen relational database management system to store and manage employee data.        |
-| <img src="README_IMAGES/maven.png" alt="Maven Icon" width="50px">             | Maven: The build tool used to compile, package, and manage project dependencies.                  |
-| <img src="README_IMAGES/github.png" alt="GitHub Icon" width="50px">           | GitHub: A web-based platform for version control and collaboration using Git.                     |
-| <img src="README_IMAGES/springsecutity.png" alt="Spring Security Icon" width="50px"> | Spring Security: Basic Spring Security is implemented to provide authentication and authorization, ensuring secure access to the application's features.|
-| <img src="README_IMAGES/emmet.png" alt="Emmet Icon" width="50px">             | Emmet: A plugin for text editors that greatly improves HTML and CSS workflow.                      |
-| <img src="README_IMAGES/netlify.png" alt="Netlify Icon" width="50px">         | Netlify: A cloud-based hosting service for deploying and managing web applications.               |
-| <img src="README_IMAGES/restful.png" alt="RESTful Icon" width="50px">         | RESTful API: Architectural style for designing networked applications.                             |
-| <img src="README_IMAGES/eclipse.png" alt="Eclipse Icon" width="50px">         | Eclipse IDE: A popular integrated development environment for Java projects.                       |
-| <img src="README_IMAGES/lambok.png" alt="Lombok Icon" width="50px">           | Lombok: A Java library that automatically plugs into your editor and builds tools, spicing up your Java.|
+| Technology             | Description                                                                                                                             |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="README_IMAGES/java.png" alt="Java Icon" width="100px" style="padding: 10px;">             | Java: The primary programming language used in WorkFolio to build the backend logic and handle data processing efficiently.              |
+| <img src="README_IMAGES/springb.png" alt="Spring Boot Icon" width="100px" style="padding: 10px;">       | Spring Boot: The powerful framework chosen for developing WorkFolio, allowing us to create a web application with minimal configuration.|
+| <img src="README_IMAGES/thymeleaf.png" alt="Thymeleaf Icon" width="100px" style="padding: 10px;">      | Thymeleaf: A modern server-side Java template engine utilized in WorkFolio to render dynamic HTML templates and enhance user experience. |
+| <img src="README_IMAGES/bootstrap.png" alt="Bootstrap Icon" width="100px" style="padding: 10px;">      | Bootstrap: A popular CSS framework integrated into WorkFolio to create responsive and visually appealing user interfaces across devices.   |
+| <img src="README_IMAGES/mysql.png" alt="MySQL Icon" width="100px" style="padding: 10px;">             | MySQL: The chosen relational database management system in WorkFolio to store and manage employee data securely and efficiently.            |
+| <img src="README_IMAGES/maven.png" alt="Maven Icon" width="100px" style="padding: 10px;">             | Maven: The build tool utilized in WorkFolio to compile, package, and manage project dependencies, ensuring smooth development workflows.   |
+| <img src="README_IMAGES/github.png" alt="GitHub Icon" width="100px" style="padding: 10px;">           | GitHub: WorkFolio uses GitHub as a version control platform to manage code collaboration and maintain a centralized repository for the app. |
+| <img src="README_IMAGES/springsecutity.png" alt="Spring Security Icon" width="100px" style="padding: 10px;"> | Spring Security: Basic Spring Security is implemented in WorkFolio to provide authentication and authorization, ensuring secure access to the application's features.|
+| <img src="README_IMAGES/emmet.png" alt="Emmet Icon" width="100px" style="padding: 10px;">             | Emmet: An essential plugin in WorkFolio's text editor that significantly enhances HTML and CSS workflow, enabling faster and more efficient coding. |
+| <img src="README_IMAGES/netlify.png" alt="Netlify Icon" width="100px" style="padding: 10px;">         | Netlify: WorkFolio utilizes Netlify, a cloud-based hosting service, to deploy and manage the web application, providing a seamless user experience.|
+| <img src="README_IMAGES/restful.png" alt="RESTful Icon" width="100px" style="padding: 10px;">         | RESTful API: An architectural style adopted in WorkFolio for designing networked applications, enabling efficient communication between components.|
+| <img src="README_IMAGES/eclipse.png" alt="Eclipse Icon" width="100px" style="padding: 10px;">         | Eclipse IDE: The preferred integrated development environment (IDE) in WorkFolio, providing advanced tools and features for Java development.  |
+| <img src="README_IMAGES/lambok.png" alt="Lombok Icon" width="100px" style="padding: 10px;">           | Lombok: A helpful Java library in WorkFolio that automatically plugs into the editor and builds tools, simplifying and enhancing Java coding.   |
 
-By utilizing these technologies, WorkFolio delivers a reliable and user-friendly platform for managing employee information and optimizing HR processes. 🚀🔒
+By leveraging this specific tech stack, WorkFolio achieves its goal of providing a seamless user experience and efficient management of employee data while maintaining a secure and reliable application environment. 🚀🔒
 
-By utilizing these technologies, WorkFolio delivers a reliable and user-friendly platform for managing employee information and optimizing HR processes. 🚀🔒
 ## Contributing
 
 Contributions to WorkFolio are highly welcome! If you encounter any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request. Together, we can enhance the application and make it even better. 👨‍💻👩‍💻
