@@ -120,4 +120,14 @@ By leveraging this specific tech stack, WorkFolio achieves its goal of providing
 
 Contributions to WorkFolio are highly welcome! If you encounter any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request. Together, we can enhance the application and make it even better. 👨‍💻👩‍💻
 
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+
+
+
 Enjoy using WorkFolio and have a productive day! 😊
