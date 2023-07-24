@@ -83,15 +83,23 @@ Before running the WorkFolio application, make sure you have the following prere
 WorkFolio leverages a range of technologies to provide a seamless user experience and efficient management of employee data:
 Sure, here's the table with the technologies used, their respective icons, and descriptions:
 
-| Technology         | Description                                                                                         |
-|--------------------|-----------------------------------------------------------------------------------------------------|
-| ![Java Icon](README_IMAGES/java.png)       | Java: The primary programming language for building the application's backend logic.              |
-| ![Spring Boot Icon](README_IMAGES/java.png)                | Spring Boot: The powerful framework used to develop the web application with minimal configuration.|
-| ![Thymeleaf Icon](README_IMAGES/java.png)                    | Thymeleaf: A modern server-side Java template engine for rendering dynamic HTML templates.        |
-| ![Bootstrap Icon](README_IMAGES/java.png)                    | Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.|
-| ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)                        | MySQL: The chosen relational database management system to store and manage employee data.        |
-| ![Maven Icon](https://img.icons8.com/color/48/000000/maven.png)                            | Maven: The build tool used to compile, package, and manage project dependencies.                  |
-| ![Spring Security Icon](https://img.icons8.com/color/48/000000/spring-security.png)        | Spring Security: Basic Spring Security is implemented to provide authentication and authorization, ensuring secure access to the application's features.|
+
+| Technology             | Description                                                                                         |
+|------------------------|-----------------------------------------------------------------------------------------------------|
+| <img src="README_IMAGES/java.png" alt="Java Icon">             | Java: The primary programming language for building the application's backend logic.              |
+| <img src="README_IMAGES/springb.png" alt="Spring Boot Icon">       | Spring Boot: The powerful framework used to develop the web application with minimal configuration.|
+| <img src="README_IMAGES/thymeleaf.png" alt="Thymeleaf Icon">      | Thymeleaf: A modern server-side Java template engine for rendering dynamic HTML templates.        |
+| <img src="README_IMAGES/bootstrap.png" alt="Bootstrap Icon">      | Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.|
+| <img src="README_IMAGES/mysql.png" alt="MySQL Icon">             | MySQL: The chosen relational database management system to store and manage employee data.        |
+| <img src="README_IMAGES/maven.png" alt="Maven Icon">             | Maven: The build tool used to compile, package, and manage project dependencies.                  |
+| <img src="README_IMAGES/github.png" alt="GitHub Icon">           | GitHub: A web-based platform for version control and collaboration using Git.                     |
+| <img src="README_IMAGES/springsecutity.png" alt="Spring Security Icon"> | Spring Security: Basic Spring Security is implemented to provide authentication and authorization, ensuring secure access to the application's features.|
+| <img src="README_IMAGES/emmet.png" alt="Emmet Icon">             | Emmet: A plugin for text editors that greatly improves HTML and CSS workflow.                      |
+| <img src="README_IMAGES/netlify.png" alt="Netlify Icon">         | Netlify: A cloud-based hosting service for deploying and managing web applications.               |
+| <img src="README_IMAGES/restful.png" alt="RESTful Icon">         | RESTful API: Architectural style for designing networked applications.                             |
+| <img src="README_IMAGES/eclipse.png" alt="Eclipse Icon">         | Eclipse IDE: A popular integrated development environment for Java projects.                       |
+| <img src="README_IMAGES/lambok.png" alt="Lombok Icon">           | Lombok: A Java library that automatically plugs into your editor and builds tools, spicing up your Java.|
+
 
 By utilizing these technologies, WorkFolio delivers a reliable and user-friendly platform for managing employee information and optimizing HR processes. 🚀🔒
 ## Contributing
