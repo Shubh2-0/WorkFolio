@@ -85,10 +85,10 @@ Sure, here's the table with the technologies used, their respective icons, and d
 
 | Technology         | Description                                                                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------|
-| ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)       | Java: The primary programming language for building the application's backend logic.              |
-| ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)                | Spring Boot: The powerful framework used to develop the web application with minimal configuration.|
-| ![Thymeleaf Icon](https://img.icons8.com/color/48/000000/thymeleaf.png)                    | Thymeleaf: A modern server-side Java template engine for rendering dynamic HTML templates.        |
-| ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)                    | Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.|
+| ![Java Icon](README_IMAGES/java.png)       | Java: The primary programming language for building the application's backend logic.              |
+| ![Spring Boot Icon](README_IMAGES/java.png)                | Spring Boot: The powerful framework used to develop the web application with minimal configuration.|
+| ![Thymeleaf Icon](README_IMAGES/java.png)                    | Thymeleaf: A modern server-side Java template engine for rendering dynamic HTML templates.        |
+| ![Bootstrap Icon](README_IMAGES/java.png)                    | Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.|
 | ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)                        | MySQL: The chosen relational database management system to store and manage employee data.        |
 | ![Maven Icon](https://img.icons8.com/color/48/000000/maven.png)                            | Maven: The build tool used to compile, package, and manage project dependencies.                  |
 | ![Spring Security Icon](https://img.icons8.com/color/48/000000/spring-security.png)        | Spring Security: Basic Spring Security is implemented to provide authentication and authorization, ensuring secure access to the application's features.|
