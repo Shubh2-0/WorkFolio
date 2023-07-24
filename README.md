@@ -4,7 +4,7 @@ WorkFolio is a powerful and intuitive web application designed to streamline emp
 
 
 <div align="center">
-  <img alt="Demo" src="README_IMAGES/Workfolio.png"/>
+  <img alt="Demo" src="README_IMAGES/projectimage.png"/>
 </div>
 
 ## Table of Contents
