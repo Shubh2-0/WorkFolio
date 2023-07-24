@@ -45,7 +45,7 @@ Before running the WorkFolio application, make sure you have the following prere
 1. **Clone the Repository:** Begin by cloning the WorkFolio repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/workfolio.git
+   git clone https://github.com/Shubh2-0/WorkFolio.git
    ```
 
 2. **Navigate to the Project Directory:** Move into the project directory using the following command:
