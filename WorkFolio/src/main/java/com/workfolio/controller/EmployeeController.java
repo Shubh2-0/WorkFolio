@@ -209,10 +209,12 @@ public class EmployeeController {
 	 *                           employee
 	 */
 	@GetMapping("/delete/{id}")
-	public String deleteEmployeehandler(@PathVariable int id, HttpSession session) throws EmployeeException {
+	public String deleteEmployeehandler(@PathVariable int id, HttpSession session,Model m) throws EmployeeException {
 		service.deleteEmployee(id);
 		session.setAttribute("msg", "Employee data deleted successfully...");
-		return "redirect:/";
+		List<Employee> employees = service.getAllEmployee();
+		m.addAttribute("employees", employees);
+		return "index";
 	}
 
 	/**

@@ -37,10 +37,10 @@ public class EmployeeServiceImpl implements EmployeeService {
 	public void addEmployee(Employee e) throws EmployeeException {
 
 		if (employeeRepository.findById(e.getId()).isPresent())
-			throw new EmployeeException("the employee alreadt present with that id");
+			throw new EmployeeException("the employee already present with that id");
 
 		else if (employeeRepository.findByEmail(e.getEmail()) != null)
-			throw new EmployeeException("the employee alreadt present with that email");
+			throw new EmployeeException("the employee already present with that email");
 
 		else
 			employeeRepository.save(e);
