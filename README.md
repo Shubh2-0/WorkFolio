@@ -50,7 +50,7 @@ The JavaDoc provides comprehensive documentation for the codebase, making it eas
 
 Feel free to explore the JavaDoc website to gain insights into the application's architecture and explore the various features and functionalities it offers. If you have any questions or need further clarifications, the JavaDoc can be a valuable resource for you.
 
-📹 **Video Presentation:**
+## Video Presentation
 
 For a detailed demonstration of the project, technologies used, and its benefits, check out the video presentation on YouTube.
 
