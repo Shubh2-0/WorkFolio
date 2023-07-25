@@ -50,6 +50,13 @@ The JavaDoc provides comprehensive documentation for the codebase, making it eas
 
 Feel free to explore the JavaDoc website to gain insights into the application's architecture and explore the various features and functionalities it offers. If you have any questions or need further clarifications, the JavaDoc can be a valuable resource for you.
 
+📹 **Video Presentation:**
+
+For a detailed demonstration of the project, technologies used, and its benefits, check out the video presentation on YouTube.
+
+📹 [WorkFolio Video Presentation](https://drive.google.com/file/d/1OElYnzRJPPxbUJm8lbU8ZtnP8j1aPzmB/view?usp=sharing)
+
+Enjoy the demo, and I hope WorkFolio proves valuable in understanding the project and its technology stack. Thank you for watching! 😊
 
 ## Installation
 
