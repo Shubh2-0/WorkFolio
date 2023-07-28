@@ -2,7 +2,7 @@
 
 WorkFolio is a powerful and intuitive web application designed to streamline employee data management for organizations. The application provides a user-friendly interface to perform various CRUD (Create, Read, Update, Delete) operations on employee records. Built using Java, Spring Boot, Thymeleaf, and Bootstrap, WorkFolio offers a robust and efficient solution for managing employee data. 🚀
 
- 
+  
 <div align="center">
   <img alt="Demo" src="README_IMAGES/projectimage.png"/>
 </div>
