@@ -127,13 +127,17 @@ By leveraging this specific tech stack, WorkFolio achieves its goal of providing
 
 Contributions to WorkFolio are highly welcome! If you encounter any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request. Together, we can enhance the application and make it even better. 👨‍💻👩‍💻
 
-<h2>📬 Contact</h2>
+
+
+## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-
+ <p align="left">
+  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
+ </p>
 
 
 
