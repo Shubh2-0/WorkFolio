@@ -52,19 +52,7 @@ mvn spring-boot:run
 
 **Keywords:** Spring-Boot Employee-Management Spring-Security Bootstrap Thymeleaf HR-System
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
